@@ -1,0 +1,78 @@
+.fondo-verde{
+background-color: #28A745;
+}
+
+.logo-cupponheader{
+    width: 86px;
+}
+
+.titulocard{
+    color: #212529;
+    font-weight: 300;
+}
+
+.lugarcard{
+    color: #707070;
+    font-weight: 200;
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+
+.direccion{
+    color: #707070;
+    font-weight: 200;
+    font-size: 13px;
+}
+
+.precio-gris{
+    font-size: 16px;
+    font-weight: 200;
+    color: #707070;
+    text-align: right;
+
+}
+
+.precio-verde{
+    font-size: 20px;
+    font-weight: 500;  
+    color: #28A745;
+    text-align: right;
+}
+
+
+.seccion-contacto{
+background-color: #28A745;
+height: 241px;
+overflow: hidden;
+}
+
+.texto-footer{
+    color: white;
+    font-weight: 500;
+    font-size: 21px;
+    text-align: center;
+    margin-top: 25px;
+}
+
+.pie-pagina{
+    height: 118px;
+    background-color: white;
+}
+
+.logo-piepagina{
+    width: 82px;
+    margin-top: 24px;
+}
+
+.copyright{
+    color: #707070;
+    font-weight: 200;
+    font-size: 16px;
+    text-align: center;
+}
+
+.alineacentro{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
